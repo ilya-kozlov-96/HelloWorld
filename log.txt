@@ -1,0 +1,59 @@
+[33mcommit eb5bc34908cd549b69f02a98b206551514562b50[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:27:00 2016 +0300
+
+    status update
+
+[33mcommit d7fc04d91ab7146357125aadf584305252b7f134[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:13:19 2016 +0300
+
+    Add .gitignore
+
+[33mcommit 15f658b6a1f54a945d18af7cb30803d2a5a6caf8[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 22:34:07 2016 +0100
+
+    Modified status
+
+[33mcommit 2027e34e8860ea5ccf4ba12c727a96563a72737f[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 22:23:07 2016 +0100
+
+    Add .gitignore
+
+[33mcommit e382da3b9d4c70ce2f3cdd534cc06dd918474a1d[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 19:10:03 2016 +0100
+
+    Add log file
+
+[33mcommit c03eeb87f2b66274c96abcbb323bc303a1ecfd85[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 19:03:26 2016 +0100
+
+    update status
+
+[33mcommit c96c55e97aa6f001810674dda0a9f7d3e5e480a7[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 18:47:51 2016 +0100
+
+    Add .gitignore
+
+[33mcommit 7851818c1813764f8215f330b303a575a30b4d59[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 18:33:57 2016 +0100
+
+    modernized status_v2
+
+[33mcommit 79076a3572ccf3ee44314325a3c7eb3cecf422f8[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 18:31:12 2016 +0100
+
+    modernized status
+
+[33mcommit 28f1c471fc06bc1700b8cd561b3a81b1f67e2554[m
+Author: Ilya <ilia19962008@gmail.com>
+Date:   Tue Feb 9 18:26:28 2016 +0100
+
+    Add .gitignore
